@@ -7,7 +7,7 @@ Passionate developer based in Paris, i'm currently working on a **cryptocurrency
 
 ## 🏎️💨 Outside of work, I'm Passionate About
 
-- 🏁 **Cars** — Because nothing beats the sound of a well-tuned engine.
+- 🏁 **Cars** — Always been fascinated by these works of art on wheels.
 - 🎬 **Cinema** — Always up for a good movie or an engaging series.
 - ⌚ **Watches** — Fascinated by horology and the precision of time.
 
