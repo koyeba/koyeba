@@ -2,7 +2,7 @@
 Warm welcome to my GitHub profile !
 
 ## 🧑‍💻 About Me
-I am a passionate software developer based in Paris, currently working on a **cryptocurrency investment platform**. I love creating smooth and intuitive user experiences with a focus on performance and design.
+Passionate developer based in Paris, i'm currently working on a **cryptocurrency investment platform**. I love creating smooth and intuitive user experiences with a focus on performance and design.
 
 ## 🏁 What I'm Passionate About
 Outside of coding, I have several interests close to my heart:
