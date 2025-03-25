@@ -12,9 +12,9 @@ I am a passionate software developer based in Paris, currently working on a **cr
 ## 🏁 What I'm Passionate About
 Outside of coding, I have several interests close to my heart:
 
-🏎️💨 **Cars** — Because nothing beats the sound of a well-tuned engine.
-🎬 **Cinema** — Always up for a good movie or an engaging series.
-⌚ **Watches** — Fascinated by horology and the precision of time.
+- 🏎️💨 **Cars** — Because nothing beats the sound of a well-tuned engine.
+- 🎬 **Cinema** — Always up for a good movie or an engaging series.
+- ⌚ **Watches** — Fascinated by horology and the precision of time.
 
 ## 🕺 Let's get in Touch
 - 📧 yebacode@gmail.com
