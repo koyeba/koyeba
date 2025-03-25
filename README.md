@@ -1,9 +1,9 @@
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 ## Hi, there 👋 
 
-I'm Al, a software engineer in Paris.     I currently work as frontend software engineer for a **cryptocurrency investment platform**.
+I'm Al, a software engineer in Paris.
 
-I am fascinated by tech products that reinvent our daily lives, helping us achieve more in an easier way.
+I currently work as frontend software engineer for a **cryptocurrency investment platform**. I am fascinated by tech products that reinvent our daily lives, helping us achieve more in an easier way.
 
 ## 🏎️💨 Outside of work, I'm Passionate About
 
