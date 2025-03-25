@@ -12,7 +12,7 @@ Outside of work, I have several interests close to my heart:
 - 🎬 **Cinema** — Always up for a good movie or an engaging series.
 - ⌚ **Watches** — Fascinated by horology and the precision of time.
 
-## 🕺 Let's get in Touch
+## 🕺 Let's Get in Touch
 - 📧 yebacode@gmail.com
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
