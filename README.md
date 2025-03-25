@@ -1,7 +1,9 @@
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 ## Hi, there 👋 
-Warm welcome to my GitHub profile ! Passionate developer based in Paris, i'm currently working on a **cryptocurrency investment platform**. 
-I love creating smooth and intuitive user experiences with a focus on performance and design.
+
+I'm Al, a software engineer in Paris. I currently work as frontend software engineer for a **cryptocurrency investment platform**.
+
+I am fascinated by tech products that reinvent our daily lives, helping us achieve more in an easier way.
 
 ## 🏎️💨 Outside of work, I'm Passionate About
 
