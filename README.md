@@ -1,6 +1,7 @@
-## Hi there 👋 
+## Hi there, welcome to my github 👋 
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh2eml5b2x0dzlmYmpybDYwbXNzanlhc3ppdm4zMzNpZXYwMWk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif
+💼 I'm a software engineer based in Paris currently working on a Crypto Investment Platform @Neptun.
+
 
 
 <!--
