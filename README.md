@@ -1,6 +1,6 @@
 ## Hi, there 👋 
 
-I'm Al, a software engineer in Paris.
+I'm Al, a software engineer at @Neptn.
 
 I currently work as frontend software engineer for a **cryptocurrency investment platform**. I am fascinated by tech products that reinvent our daily lives, helping us achieve more in an easier way. Previously, I worked at SoilCloud and Kryptovalley.
 
